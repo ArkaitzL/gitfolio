@@ -1,18 +1,19 @@
-:root{
-    --bg1: #18BC9C;
-    --txt1: #FFFFFF;
-    --bg2: #FFFFFF;
-    --esp: #fb923c;
-    --esp2: #fdba74;
-    --txt2: #252525;
-    --header-bg: #2C3E50;
-    --header-txt: #FFFFFF;
-    --select-bg: #edb75a;
-    --select-txt: #fff;
-    --scrollbar: #fff;
-    --scrollbar-bg: #fff;
-    --link: #252525;
+:root {
+    --bg1: #1c1917; /* background */
+    --txt1: #e7e5e4; /* text-primary */
+    --bg2: #292524; /* card */
+    --esp: #9333ea; /* accent-primary */
+    --esp2: #ec4899; /* accent-secondary */
+    --txt2: #d6d3d1; /* text-secondary */
+    --header-bg: #312e81; /* indigo-900 */
+    --header-txt: #ffffff; /* White for contrast */
+    --select-bg: #c084fc; /* purple-400 */
+    --select-txt: #111827; /* gray-900 */
+    --scrollbar: #d1d5db; /* gray-300 */
+    --scrollbar-bg: #1f2937; /* gray-800 */
+    --link: #a855f7; /* purple-500 */
 }
+
 
 ::selection{
     background-color: var(--select-bg) !important;
