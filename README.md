@@ -40,9 +40,7 @@ Para personalizar la información de tu portfolio, edita el archivo `src/config.
 
 ## Ejemplo en Vivo
 
-Puedes ver un ejemplo en vivo de esta plantilla [aquí](https://baboon.games/).
-
-![Captura de Pantalla 1](https://cdn.discordapp.com/attachments/1169937250126135306/1169972195762642954/image.png?ex=65575884&is=6544e384&hm=2c8b38c2dca3d2a36ffcd565cc65573e6bb889a721b08ff1abedd7f0fc987713&)
+Puedes ver un ejemplo en vivo de esta plantilla [aquí]([https://baboon.games/](https://github.arkaitz.me/)).
 
 ## Contribuciones
 
